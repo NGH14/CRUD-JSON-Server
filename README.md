@@ -6,9 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### 1/ `npm start` to run the project 
+### 1/ `npm install` to install all package
 
-### 2/ open new terminal and `cd ./src/database` to move to json-server file 
+### 2/ `npm start` to run the project 
+
+### 3/ open new terminal and `cd ./src/database` to move to json-server file 
 ###    After that `json-server --watch db.json` to run json-server
 
 

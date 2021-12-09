@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "firstName": "Nghia",
+      "lastName": "Vu",
+      "email": "Nghiavunehehehe@gmail.com",
+      "dob": "17/10/2001",
+      "id": 1
+    },
+    {
+      "firstName": "Nhan",
+      "lastName": "Le",
+      "email": "NhanLesiucapvipro@gmail.com",
+      "dob": "13-01-2009",
+      "id": 2
+    },
+    {
+      "firstName": "Binh",
+      "lastName": "Nguyen",
+      "email": "BinhLesiunhando@gmail.com",
+      "dob": "13-01-2009",
+      "id": 3
+    }
+  ]
+}
